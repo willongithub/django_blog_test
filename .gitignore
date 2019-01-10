@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+django_env
+db.sqlite3
+/static
+.DS_Store
+test_web_project
